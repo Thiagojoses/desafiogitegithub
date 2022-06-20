@@ -1,0 +1,2 @@
+ ANOTAÇÕES DO CURSO
+ Gitbash é um CLI criado para unificar e simplificar os comandos para os usuario de diversos sisitemas operacionais
